@@ -9,6 +9,7 @@ export default StyleSheet.create({
   image: {
     height: Dimensions.get('window').height / 4,
     borderTopLeftRadius: 10,
+
     borderTopRightRadius: 10,
   },
   title: {
